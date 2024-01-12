@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 👋 I'm Nana Gaisie
+
+## Favorites
+- Typescript
+- Kinde Auth
+- Tailwindcss
+
+## About Me
+- Fullstack Developer
+- 🌌 Proficiently Skilled in
+   - **Web Application Development:** NextJS, NodeJS, REST API, Tailwindcss 
+   - **Mobile App Development:** React Native, Expo 
+   - **Databases:** MongoDB, Postgres
+
+## Fun Facts
+- Writing ✍️
+- Listening to Music 🎵
+- Surfing the Internet 🌐
+
+## Other Details
+- 👀 AI Enthusiast
+- **Tech Stack:**
+   - HTML, CSS, Javascript, Typescript, React, Python, Github, React Native, Prisma ORM, Kinde Auth, Clerk Auth, Authjs, Tailwindcss, Framer Motion, Resend, MongoDB, Neon DB, Planetscale, OpenAI, Appwrite, Convex, Payload, Uploadthing, Edge Store
+
+## Current Projects
+- 🔭 I’m currently working on my personal profile and an event and ticketing multiplatform app.
+
+## Learning Journey
+- 🌱 I’m currently learning
+   - Kotlin programming language
+   - Prisma ORM
+   - AI
+   - React Query
+
+## Collaboration Interests
+- 👯 I’m looking to collaborate on Fullstack projects with React, React Native, Javascript, Typescript.
+
+## Reach Me
+- 📫 How to reach me:
+   - Twitter: [nabgaisie](https://twitter.com/nabgaisie)
+   - Dev.to: [nanagaisie1](https://dev.to/nanagaisie1)
+
